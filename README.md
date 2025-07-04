@@ -1,50 +1,18 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# 情感倾向评估系统（Love-Bias）
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+一个基于时间与吸引力建模的“被喜欢概率”计算工具，用于模拟某人（如你的 crush）在不同人选间的情感倾向。适用于娱乐用途、社交分析或个人参考。
 
-## Available Scripts
+## 🚀 如何启动项目
 
-In the project directory, you can run:
+### 1. 克隆项目
 
-### `npm start`
+git clone https://github.com/banirabbit/love-Bias.git
+cd love-Bias
+### 2. 安装依赖
+npm install
+### 3. 启动开发服务器
+npm run start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📌 声明
+本系统仅供娱乐参考，结果不代表真实情况。使用本工具所产生的任何后果，开发者概不负责 🙃
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# love-Bias
->>>>>>> 33ded2f7a178f57f7a26a23cccd1c7307d5f6323
